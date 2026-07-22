@@ -1,0 +1,8 @@
+{
+  "API_KEY": "Put Ur Key",
+  "API_URL": "http://solver.shopcloneroblox.com:5005/",
+  "autoOpen": true,
+  "autoSolve": true,
+  "enabled": true,
+  "solveDelayTime": 1000
+}
